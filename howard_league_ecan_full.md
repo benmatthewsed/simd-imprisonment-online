@@ -6,7 +6,7 @@ Ben Matthews
 
 *This paper is a slightly expanded version of pages 51-58 in the*
 [Howard League for Penal Reform Early Career Academics Network Bulletin
-Issue 41](https://howardleague.org/wp-content/uploads/2019/04/ECAN-bulletin-Spring-2019-1.pdf)
+Issue 41](https://howardleague.org/wp-content/uploads/2019/04/ECAN-bulletin-Spring-2019.pdf)
 *which provides more detail on the methods used, including* *a technical
 appendix and references.*
 
