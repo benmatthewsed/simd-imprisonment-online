@@ -90,7 +90,7 @@ Two in [this paper](https://github.com/benmatthewsed/simd-imprisonment-online/bl
 errors estimate across all comparisons between Local Authorities is
 -9.29%. Whilst this may seem high, Firth suggests that worst relative
 errors of “even 10 percent may be considered not very serious” (Firth
-2003,:8).
+2003:8).
 
 # References
 
