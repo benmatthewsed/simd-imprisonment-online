@@ -86,7 +86,7 @@ Firth (2003) recommends that you should present the worst relative
 errors alongside quasi-variance estimates. These figures give an
 indication of the potential size of the bias in the estimate of the
 quasi-variance. Table Three presents the worst relative errors for Model
-Two in Matthews (2019). The largest possible error in the quasi-standard
+Two in [this paper](https://github.com/benmatthewsed/simd-imprisonment-online/blob/master/howard_league_ecan_full.md). The largest possible error in the quasi-standard
 errors estimate across all comparisons between Local Authorities is
 -9.29%. Whilst this may seem high, Firth suggests that worst relative
 errors of “even 10 percent may be considered not very serious” (Firth
